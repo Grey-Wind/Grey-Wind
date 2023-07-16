@@ -2,6 +2,6 @@
 
 Welcome to my profile page! My name is Grey Wind.
 
-I'm now make some projects, below are some of the projects I care about most.
+[![GitHub Streak](https://streak-stats.demolab.com?user=Grey-Wind&theme=buefy&border_radius=10&locale=zh_Hans)](https://git.io/streak-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Grey-Wind&repo=CompressedGrassReborn-Forge)](https://github.com/Grey-Wind/CompressedGrassReborn-Forge)
+<!-- 用了https://streak-stats.demolab.com/ -->
