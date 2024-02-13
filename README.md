@@ -17,4 +17,4 @@ Welcome to my profile page! My name is Grey Wind.
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grey-Wind)](https://github.com/Grey-Wind/Grey-Wind/)
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grey-Wind)](https://github.com/Grey-Wind/Grey-Wind/) -->
