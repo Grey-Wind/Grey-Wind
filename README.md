@@ -12,9 +12,9 @@ Welcome to my profile page! My name is Grey Wind.
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-Wind) -->
 
-<div>
+<!–– <div>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-Wind&layout=compact"/>
-</div>
+</div> ––>
 
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grey-Wind)](https://github.com/Grey-Wind/Grey-Wind/) -->
