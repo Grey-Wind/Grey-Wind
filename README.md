@@ -10,7 +10,7 @@ Welcome to my profile page! My name is Grey Wind.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Grey-Wind&theme=buefy&border_radius=10&locale=zh_Hans)](https://git.io/streak-stats)<!-- 用了https://streak-stats.demolab.com/ -->
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-Wind) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-Wind)
 
 <!-- <div>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grey-Wind&layout=compact"/>
